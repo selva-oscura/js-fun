@@ -1,0 +1,23 @@
+{
+  "name": "js-fun",
+  "version": "1.0.0",
+  "description": "Experimental library for JS rendering and templating",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eomci/js-fun.git"
+  },
+  "author": "Mitch Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eomci/js-fun/issues"
+  },
+  "homepage": "https://github.com/eomci/js-fun#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "redis": "^2.7.1"
+  }
+}
