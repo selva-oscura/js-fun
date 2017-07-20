@@ -18,6 +18,8 @@
   "homepage": "https://github.com/eomci/js-fun#readme",
   "dependencies": {
     "express": "^4.15.3",
-    "redis": "^2.7.1"
+    "express-handlebars": "^3.0.0",
+    "redis": "^2.7.1",
+    "sqlite3": "^3.1.8"
   }
 }
