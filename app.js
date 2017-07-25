@@ -10,7 +10,7 @@ var appData =  {
                };
 
 app.set('port', process.env.PORT || 3000);
-app.use(express.static('site'))
+app.use(express.static('site'));
 app.engine('handlebars', handlebars.engine);
 app.set('view engine', 'handlebars');
 
