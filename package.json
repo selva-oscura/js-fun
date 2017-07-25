@@ -4,6 +4,7 @@
   "description": "Experimental library for JS rendering and templating",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "jshint *.js"
   },
   "repository": {
